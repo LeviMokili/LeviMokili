@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<p align="left">Hello World!!</p>
-
-###
-
+Skills :
 <div align="left">
   <h1>Frontend programming</h1><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
