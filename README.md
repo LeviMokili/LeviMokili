@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **php, laravel, css**
 
-- 📫 How to reach me **levimokili989d@gmail.com**
+- 📫 How to reach me **levimokili989@gmail.com**
 
 - ⚡ Fun fact **when it comes to programming, i can spend a day without eating enough food**
 
