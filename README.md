@@ -1,5 +1,5 @@
 <meta name="google-site-verification" content="cOkz_DqiS5YSKrmLqD1x74BPnG3of3QkeaBV9UOBhtc" />
-<h1 align="center" style="font-font-size:30px">Hi 👋, I'm levi mokili</h1>
+<h1 align="center" style="font-font-size:30px">Hi 👋, I'm Levi Mokili</h1>
 <h3 align="center">Innovative Software Engineer with Demonstrated Skills in Web Development</h3>
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="" srcset="" width="500" height="500">
 
